@@ -1,0 +1,33 @@
+<addons>
+    <addon id="repository.diggz" name="Diggz Repository" version="23.0.0" provider-name="diggz1">
+        <extension point="xbmc.addon.repository" name="Diggz Repo">
+            <info compressed="false">https://diggz1.me/diggzrepo/addons.xml</info>
+            <checksum>https://diggz1.me/diggzrepo/addons.xml.md5</checksum>
+            <datadir zip="true">https://diggz1.me/diggzrepo/</datadir>
+        </extension>
+    </addon>
+
+    <addon id="repository.crew" name="Crew Repository" version="0.3.7" provider-name="team-crew">
+        <extension point="xbmc.addon.repository" name="Crew Repo">
+            <info compressed="false">https://team-crew.github.io/addons.xml</info>
+            <checksum>https://team-crew.github.io/addons.xml.md5</checksum>
+            <datadir zip="true">https://team-crew.github.io/</datadir>
+        </extension>
+    </addon>
+
+    <addon id="repository.zombib" name="Zombib Repository" version="0.0.9" provider-name="zombib">
+        <extension point="xbmc.addon.repository" name="Zombib Repo">
+            <info compressed="false">https://zombib.github.io/addons.xml</info>
+            <checksum>https://zombib.github.io/addons.xml.md5</checksum>
+            <datadir zip="true">https://zombib.github.io/</datadir>
+        </extension>
+    </addon>
+
+    <addon id="repository.a4kSubtitles" name="a4k Subtitles Repository" version="1.0.0" provider-name="a4k-openproject">
+        <extension point="xbmc.addon.repository" name="a4kSubtitles Repo">
+            <info compressed="false">https://a4k-openproject.github.io/a4kSubtitles/packages/addons.xml</info>
+            <checksum>https://a4k-openproject.github.io/a4kSubtitles/packages/addons.xml.md5</checksum>
+            <datadir zip="true">https://a4k-openproject.github.io/a4kSubtitles/packages/</datadir>
+        </extension>
+    </addon>
+</addons>
